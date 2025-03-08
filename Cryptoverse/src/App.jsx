@@ -1,11 +1,11 @@
 import React from 'react'
 import {Routes,Route} from 'react-router-dom'
 import Navbar from './components/Navbar'
-import HomePage from './components/HomePage'
 import News from './components/News'
 import Currency from './components/Currency'
 import Exchanges from './components/Exchanges'
 import Transfer from './components/Transfer'
+import HomePage from './components/Homepage'
 
 const App = () => {
   return (
